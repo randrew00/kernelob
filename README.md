@@ -6,6 +6,9 @@
 - Working with UEFI firmware loader to get driver mapped before system boots completely (https://github.com/KunYi/Simple-UEFI-Bootloader)
 
 **If use, build solution with the following** 
+
 **-MSVS** 
+
 **-WDK (https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)**
+
 **Spectre Mitigated Libraries**
