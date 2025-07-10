@@ -1,6 +1,8 @@
 // <>
 #include "hook.h"
 
+// When I wrote this, only God and I understood what I was doing
+// Now, God only knows
 bool nullhook::call_kernel_function(void* kernel_function_address)
 {
 	if (!kernel_function_address)
